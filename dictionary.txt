@@ -1,0 +1,8 @@
+[ARTIKEL]
+ein;S;M;N // SINGULAR, MASKULINUM, NOMINATIV
+
+[SUBSTANTIV]  // Wort, Stamm, Kontext, Numerus, Genus, Kasus // https://de.wiktionary.org/wiki/Graph
+Graph;Graph;Graphentheorie;S;M;N
+
+[VERB]  // Wort, Stamm, Person, Numerus, Typus?, Tempus // https://de.wiktionary.org/wiki/Flexion:sein
+ist;sein;3;S;IND;PRS // 3. PERSON, SINGULAR, INDIKATIV, PRAESENS
